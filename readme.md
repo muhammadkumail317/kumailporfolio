@@ -101,29 +101,20 @@ Responsive CSS and flexible layouts ensure that the website adapts to different 
 portfolio/
 │
 ├── index.html
-├── about.html
-├── contact.html
-├── profile.html
 │
 ├── css/
 │   ├── style.css
-│   ├── responsive.css
-│   └── animations.css
 │
 ├── js/
 │   ├── script.js
-│   ├── theme.js
-│   ├── notifications.js
-│   └── ...
-│
-├── images/
-│   ├── profile/
-│   ├── projects/
-│   ├── certificates/
-│   └── screenshots/
+│   ├── contact.js
 │
 ├── assets/
-│   └── ...
+│   ├── images/
+│   ├── project 1/
+│   ├── project 2/
+│
+├── certificates/
 │
 └── README.md
 ```
