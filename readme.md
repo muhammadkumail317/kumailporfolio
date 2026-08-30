@@ -253,37 +253,6 @@ For development, **Visual Studio Code + Live Server** is recommended.
 ```text
 https://your-portfolio-url.com
 ```
-
----
-
-## 📸 Screenshots
-
-### 🏠 Home
-
-Add your homepage screenshot:
-
-```markdown
-![Portfolio Home](images/screenshots/home.png)
-```
-
-### 👨‍💻 About
-
-```markdown
-![About Section](images/screenshots/about.png)
-```
-
-### 🚀 Projects
-
-```markdown
-![Projects Section](images/screenshots/projects.png)
-```
-
-### 🛠️ Skills
-
-```markdown
-![Skills Section](images/screenshots/skills.png)
-```
-
 ---
 
 ## 🔮 Future Improvements
