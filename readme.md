@@ -47,15 +47,12 @@ This portfolio is a personal space where I showcase my:
 * 🌙 Dark / light theme support
 * ⚡ Smooth scrolling
 * 🎬 Scroll reveal animations
-* 🌀 3D Flip & Tilt reveal effects
-* ⬆️ Scroll-direction-aware animations
 * ⌨️ Typing animation
 * 💎 Glassmorphism-inspired components
 * 🌌 Modern animated backgrounds
 * 🧑‍💻 Interactive project cards
 * 📊 Skills percentage indicators
 * 📜 Certificate showcase
-* 🐙 GitHub section
 * 📩 Contact section
 * 🔔 Toast notification system
 * ⏳ Custom page loader
@@ -85,42 +82,6 @@ This portfolio is a personal space where I showcase my:
 * Font Awesome
 
 ---
-
-## 🎬 Animation System
-
-The portfolio includes a custom scroll-reveal animation system powered by JavaScript and the **Intersection Observer API**.
-
-Different reveal classes are used throughout the website:
-
-```text
-.reveal
-.reveal-left
-.reveal-right
-.reveal-scale
-```
-
-### ⬇️ Scroll Down
-
-When scrolling down, elements reveal from:
-
-```text
-Bottom → Top
-```
-
-with a subtle 3D tilt effect.
-
-### ⬆️ Scroll Up
-
-When scrolling back up, elements reveal from:
-
-```text
-Top → Bottom
-```
-
-The JavaScript detects the current scroll direction and applies the appropriate animation.
-
----
-
 ## 📱 Responsive Design
 
 The portfolio is designed to provide a consistent experience across:
