@@ -198,69 +198,6 @@ https://github.com/muhammadkumail317/responsive-image-gallery
 
 ---
 
-## 🎓 Education
-
-### Bachelor of Science in Computer Science
-
-**Abdul Wali Khan University Mardan (AWKUM)**
-
-**Expected Graduation:** 2027
-
----
-
-## 💻 Skills
-
-### Frontend Development
-
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap
-* React
-
-### Web Development
-
-* Responsive Web Design
-* DOM Manipulation
-* JavaScript Events
-* Browser APIs
-* Local Storage
-* UI/UX Fundamentals
-* CSS Animations
-
-### Computer Science
-
-* C++
-* Object-Oriented Programming
-* Data Structures & Algorithms
-* Database Management Systems
-* SQL
-* Computer Networks
-
-### Development Tools
-
-* Git
-* GitHub
-* Visual Studio Code
-* Live Server
-* Chrome DevTools
-
----
-
-## 📜 Certifications
-
-The portfolio includes a dedicated section for showcasing professional and academic achievements.
-
-These may include:
-
-* Internship certificates
-* Technical training
-* Online courses
-* Workshops
-* Academic achievements
-
----
-
 ## 📱 Responsive Design
 
 The portfolio is designed to provide a consistent experience across different screen sizes:
@@ -271,38 +208,6 @@ The portfolio is designed to provide a consistent experience across different sc
 * 📱 Mobile
 
 Responsive layouts, flexible components, and CSS media queries help the website adapt to different devices and screen sizes.
-
----
-
-## ⚙️ Installation
-
-You don't need any special framework or build system to run this project.
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/muhammadkumail317/kumailporfolio.git
-```
-
-### 2. Navigate to the project
-
-```bash
-cd kumailporfolio
-```
-
-### 3. Open the project
-
-You can open `index.html` directly in your browser.
-
-For a better development experience, use **VS Code with Live Server**.
-
-### 4. Run with Live Server
-
-Open the project in Visual Studio Code, right-click `index.html`, and select:
-
-```text
-Open with Live Server
-```
 
 ---
 
