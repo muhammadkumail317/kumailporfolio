@@ -211,11 +211,10 @@ Responsive layouts, flexible components, and CSS media queries help the website 
 
 ---
 
+
 ## 🌐 Live Demo
 
-🚧 **Live demo coming soon.**
-
-Once the portfolio is deployed, the live website link will be added here.
+🚀 **[View Live Portfolio](https://muhammadkumail317.github.io/kumailporfolio/)**
 
 ---
 
