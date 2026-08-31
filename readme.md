@@ -1,21 +1,28 @@
 # 🌐 Muhammad Kumail Noor — Personal Portfolio
 
 <p align="center">
+
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Responsive%20Design-0A66C2?style=for-the-badge" alt="Responsive Design">
+
 </p>
 
 <p align="center">
-  A modern, responsive, and interactive personal portfolio website showcasing my skills, projects, education, certifications, and development journey.
+  <strong>Modern • Responsive • Interactive • Professional</strong>
 </p>
 
 <p align="center">
+  A modern personal portfolio website built to showcase my skills,
+  projects, education, certifications, and journey as a Computer Science student.
+</p>
+
+<p align="center">
+  <a href="#-about-me">About Me</a> •
   <a href="#-features">Features</a> •
   <a href="#-technologies">Technologies</a> •
-  <a href="#-project-structure">Structure</a> •
   <a href="#-projects">Projects</a> •
   <a href="#-installation">Installation</a> •
   <a href="#-contact">Contact</a>
@@ -27,38 +34,76 @@
 
 Hi! I'm **Muhammad Kumail Noor**, a **BS Computer Science student** and aspiring **Frontend Developer**.
 
-I enjoy creating modern, responsive, and user-friendly websites with a strong focus on clean design, smooth animations, accessibility, and good user experience.
+I enjoy building modern, responsive, and user-friendly websites with a strong focus on:
 
-This portfolio is a personal space where I showcase my:
+* 🎨 Modern UI design
+* 📱 Responsive layouts
+* ⚡ JavaScript functionality
+* 🎬 Smooth animations
+* ♿ Accessibility
+* 🧑‍💻 User experience
+* 🚀 Continuous learning
 
-* 💻 Technical skills
-* 🚀 Projects
-* 🎓 Education
-* 📜 Certifications
-* 🧑‍💻 Development journey
-* 🌐 Professional profiles
+This portfolio represents my development journey and provides a central place to showcase my projects, technical skills, education, certifications, and professional information.
+
+---
+
+## 📌 About the Project
+
+This is my personal portfolio website, created to present my development skills, projects, education, certifications, and experience in a clean and professional way.
+
+The website is built using **HTML5, CSS3, JavaScript, and Bootstrap**, without depending on a frontend framework for the core portfolio experience.
+
+Custom JavaScript functionality is used to provide interactive features such as animations, notifications, theme handling, navigation interactions, and other dynamic components.
+
+The project focuses on creating a professional user experience while maintaining responsive layouts and accessibility-friendly markup.
 
 ---
 
 ## ✨ Features
 
-* 🎨 Modern and professional user interface
-* 📱 Fully responsive design
-* 🌙 Dark / light theme support
-* ⚡ Smooth scrolling
-* 🎬 Scroll reveal animations
-* ⌨️ Typing animation
-* 💎 Glassmorphism-inspired components
-* 🌌 Modern animated backgrounds
-* 🧑‍💻 Interactive project cards
-* 📊 Skills percentage indicators
-* 📜 Certificate showcase
-* 📩 Contact section
-* 🔔 Toast notification system
-* ⏳ Custom page loader
-* ♿ Accessibility-friendly HTML structure
-* 📐 Responsive layouts
-* 🚀 Smooth user experience
+### 🎨 Design & UI
+
+* Modern professional interface
+* Clean and structured layouts
+* Responsive design
+* Glassmorphism-inspired components
+* Modern gradients and visual effects
+* Interactive hover effects
+* Consistent typography and spacing
+* Professional project presentation
+
+### 🎬 Animations
+
+* Custom page loader
+* Scroll reveal animations
+* Typing animation
+* Smooth transitions
+* Interactive card effects
+* Dynamic visual effects
+* Direction-aware reveal interactions
+
+### 🧑‍💻 Functionality
+
+* Interactive navigation
+* Responsive mobile navigation
+* Smooth scrolling
+* Toast notification system
+* Contact interactions
+* Interactive project cards
+* Certificate showcase
+* Skills percentage indicators
+* Theme switching
+* Dynamic JavaScript interactions
+
+### ♿ Accessibility
+
+* Semantic HTML structure
+* ARIA attributes where appropriate
+* Accessible navigation
+* Keyboard-friendly interactive elements
+* Reduced-motion support
+* Meaningful labels for interactive components
 
 ---
 
@@ -66,60 +111,55 @@ This portfolio is a personal space where I showcase my:
 
 ### Frontend
 
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap
-* React
+| Technology | Purpose                                            |
+| ---------- | -------------------------------------------------- |
+| HTML5      | Website structure and semantic markup              |
+| CSS3       | Styling, layout, animations, and responsive design |
+| JavaScript | Interactivity and dynamic functionality            |
+| Bootstrap  | Responsive components and utility classes          |
 
-### Tools & APIs
+### APIs & Browser Features
 
-* Git
-* GitHub
-* Visual Studio Code
 * Intersection Observer API
 * Local Storage API
-* Font Awesome
+* DOM API
+* Browser Events
 
----
-## 📱 Responsive Design
+### Development Tools
 
-The portfolio is designed to provide a consistent experience across:
-
-* 🖥️ Desktop
-* 💻 Laptop
-* 📱 Mobile
-* 📲 Tablet
-
-Responsive CSS and flexible layouts ensure that the website adapts to different screen sizes.
+* Visual Studio Code
+* Git
+* GitHub
+* Live Server
+* Chrome DevTools
 
 ---
 
 ## 📂 Project Structure
 
 ```text
-portfolio/
+kumailporfolio/
 │
-├── index.html
+├── 📁 assets/
+│   ├── 📁 images/
+│   ├── 📁 project 1/
+│   └── 📁 project 2/
 │
-├── css/
-│   ├── style.css
+├── 📁 certificates/
 │
-├── js/
+├── 📁 css/
+│   └── style.css
+│
+├── 📁 js/
 │   ├── script.js
-│   ├── contact.js
+│   └── contact.js
 │
-├── assets/
-│   ├── images/
-│   ├── project 1/
-│   ├── project 2/
+├── 📄 index.html
 │
-├── certificates/
-│
-└── README.md
+└── 📄 README.md
 ```
 
-> The structure may change as the portfolio continues to evolve.
+> The project structure may continue to evolve as new features and improvements are added.
 
 ---
 
@@ -127,14 +167,15 @@ portfolio/
 
 ### 🎓 Student Performance Analytics Portal
 
-A web-based project designed to manage and visualize student performance information through a structured and user-friendly interface.
+A web-based application designed to manage and visualize student performance information through a structured and user-friendly interface.
 
 **Technologies:**
 
-* HTML
-* CSS
+* HTML5
+* CSS3
 * JavaScript
 * Bootstrap
+* JavaScript-based data visualization
 
 🔗 **GitHub Repository:**
 https://github.com/muhammadkumail317/student-performance-analytics-portal
@@ -143,13 +184,14 @@ https://github.com/muhammadkumail317/student-performance-analytics-portal
 
 ### 🖼️ Responsive Image Gallery
 
-A responsive image gallery focused on creating a clean, interactive, and mobile-friendly browsing experience.
+A responsive image gallery project focused on creating a clean, interactive, and mobile-friendly browsing experience.
 
 **Technologies:**
 
-* HTML
-* CSS
+* HTML5
+* CSS3
 * JavaScript
+* Responsive Web Design
 
 🔗 **GitHub Repository:**
 https://github.com/muhammadkumail317/responsive-image-gallery
@@ -158,11 +200,11 @@ https://github.com/muhammadkumail317/responsive-image-gallery
 
 ## 🎓 Education
 
-### BS Computer Science
+### Bachelor of Science in Computer Science
 
 **Abdul Wali Khan University Mardan (AWKUM)**
 
-Expected Graduation: **2027**
+**Expected Graduation:** 2027
 
 ---
 
@@ -184,8 +226,9 @@ Expected Graduation: **2027**
 * Browser APIs
 * Local Storage
 * UI/UX Fundamentals
+* CSS Animations
 
-### Programming & Computer Science
+### Computer Science
 
 * C++
 * Object-Oriented Programming
@@ -206,9 +249,9 @@ Expected Graduation: **2027**
 
 ## 📜 Certifications
 
-The portfolio contains a dedicated certification section for showcasing professional and academic achievements.
+The portfolio includes a dedicated section for showcasing professional and academic achievements.
 
-Certificates can include:
+These may include:
 
 * Internship certificates
 * Technical training
@@ -218,70 +261,81 @@ Certificates can include:
 
 ---
 
+## 📱 Responsive Design
+
+The portfolio is designed to provide a consistent experience across different screen sizes:
+
+* 🖥️ Desktop
+* 💻 Laptop
+* 📲 Tablet
+* 📱 Mobile
+
+Responsive layouts, flexible components, and CSS media queries help the website adapt to different devices and screen sizes.
+
+---
+
 ## ⚙️ Installation
+
+You don't need any special framework or build system to run this project.
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/muhammadkumail317/portfolio.git
+git clone https://github.com/muhammadkumail317/kumailporfolio.git
 ```
 
 ### 2. Navigate to the project
 
 ```bash
-cd portfolio
+cd kumailporfolio
 ```
 
 ### 3. Open the project
 
-Open:
+You can open `index.html` directly in your browser.
+
+For a better development experience, use **VS Code with Live Server**.
+
+### 4. Run with Live Server
+
+Open the project in Visual Studio Code, right-click `index.html`, and select:
 
 ```text
-index.html
+Open with Live Server
 ```
-
-in your browser.
-
-For development, **Visual Studio Code + Live Server** is recommended.
 
 ---
 
 ## 🌐 Live Demo
 
-> Add your deployed portfolio URL here after deployment.
+🚧 **Live demo coming soon.**
 
-```text
-https://your-portfolio-url.com
-```
+Once the portfolio is deployed, the live website link will be added here.
+
 ---
 
 ## 🔮 Future Improvements
 
+* [ ] Deploy the portfolio
+* [ ] Add live demo link
+* [ ] Add more frontend projects
 * [ ] Add more React projects
 * [ ] Add backend functionality
 * [ ] Add a blog section
-* [ ] Improve accessibility further
-* [ ] Optimize website performance
-* [ ] Add more project case studies
-* [ ] Add additional interactive animations
-* [ ] Deploy the portfolio
+* [ ] Improve performance optimization
+* [ ] Add detailed project case studies
+* [ ] Expand accessibility features
 * [ ] Add analytics
 * [ ] Continue improving UI/UX
+* [ ] Add more interactive portfolio features
 
 ---
 
-## 🤝 Contributing
+## 🤝 Feedback
 
 This is a personal portfolio project, but feedback and suggestions are always welcome.
 
-If you find an issue or have an idea for improvement:
-
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Commit your changes
-5. Push the branch
-6. Open a Pull Request
+If you discover an issue, have a suggestion, or have an idea that could improve the project, feel free to open an issue or connect with me.
 
 ---
 
@@ -289,14 +343,14 @@ If you find an issue or have an idea for improvement:
 
 ### Muhammad Kumail Noor
 
-**Email:**
+📧 **Email:**
 [kumailnoor345@gmail.com](mailto:kumailnoor345@gmail.com)
 
-**LinkedIn:**
-[www.linkedin.com/in/muhammad-kumail-noor](http://www.linkedin.com/in/muhammad-kumail-noor)
+💼 **LinkedIn:**
+https://www.linkedin.com/in/muhammad-kumail-noor
 
-**GitHub:**
-github.com/muhammadkumail317
+🐙 **GitHub:**
+https://github.com/muhammadkumail317
 
 ---
 
@@ -310,7 +364,7 @@ Your support and feedback are greatly appreciated!
 
 ## 📄 License
 
-This project is created for personal portfolio and educational purposes.
+This project is created for **personal portfolio and educational purposes**.
 
 © 2026 **Muhammad Kumail Noor**. All Rights Reserved.
 
@@ -321,5 +375,5 @@ This project is created for personal portfolio and educational purposes.
 </p>
 
 <p align="center">
-  <sub>Continuously learning • Building • Improving</sub>
+  <sub>Learning • Building • Improving</sub>
 </p>
