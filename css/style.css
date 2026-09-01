@@ -2594,6 +2594,16 @@ body::after {
         color 0.3s ease,
         transform 0.3s ease;
 
+    gap: 12px;
+
+}
+
+.logo img {
+    width: 42px;
+    height: 42px;
+    object-fit: contain;
+    border-radius: 50%;
+    flex-shrink: 0;
 }
 
 

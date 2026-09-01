@@ -143,7 +143,8 @@ kumailporfolio/
 ├── 📁 assets/
 │   ├── 📁 images/
 │   ├── 📁 project 1/
-│   └── 📁 project 2/
+│   ├── 📁 FAVICON/
+    └── 📁 project 2/
 │
 ├── 📁 certificates/
 │
